@@ -1,5 +1,5 @@
 # Data Model
-!(ERDataModel.png)
+<img src="ERDataModel.png.png" />
 
 # ETL
     In IngestData.py I prepared ETL process
